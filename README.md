@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🙂 I'm a Mechanical Engineering student interested in web development.
+- 🌱 Currently working at the University of Waterloo Centre for Extended Learning team in web development using C#, ASP.NET.
 <!--
 **douglashuangg/douglashuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
