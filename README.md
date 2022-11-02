@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🙂 I'm a Mechanical Engineering student interested in web dev and microcontrollers.
+- 🙂 I'm a Mechanical Engineering student interested in web dev, AR/VR and microcontrollers.
 - 🔭 Currently at Brock Solutions for web dev with React and C#.
 - 🏓 Hobbies include working out, playing volleyball and watching movies.
 <!--
