@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🙂 I'm a Mechanical Engineering student interested in web development.
+- 🙂 I'm a Mechanical Engineering student interested in web dev and microcontrollers.
 - 🌱 Worked at UWaterloo's Centre for Extended Learning team for web development using C#, ASP.NET.
 - 🏓 Hobbies include working out and watching movies.
 <!--
