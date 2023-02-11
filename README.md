@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🙂 I'm a Mechanical Engineering student interested in web dev, AR/VR and microcontrollers.
-- 🔭 Currently at Brock Solutions for web dev with React and C#.
+- 🙂 I'm a Mechanical Engineering student interested in web dev,robotics and microcontrollers.
+- 🔭 Previously at Brock Solutions for web dev with React and C#.
 - 🏓 Hobbies include working out, playing volleyball and watching movies.
 <!--
 **douglashuangg/douglashuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
