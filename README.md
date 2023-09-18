@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🙂 I'm a Mechanical Engineering student interested in web dev, robotics and microcontrollers.
+- 🙂 I'm a Mechatronics Engineering student interested in web dev, robotics and microcontrollers.
 - 🏓 I enjoy working out, playing volleyball and watching movies.
 
 Feel free to reach out to me on my [linkedin!](https://www.linkedin.com/in/douglas-huang-b8b521209/)
