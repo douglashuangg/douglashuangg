@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🤖 Currently at Siemens as an embedded software developer.
 - 🙂 I'm a Mechatronics Engineering student interested in web dev, robotics and microcontrollers.
 - 🏓 I enjoy working out, playing volleyball and watching movies.
 
