@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤖 Previously at Siemens, ON Semiconductor as an embedded software developer.
+- 🤖 Previously at Avidrone, Siemens, ON Semiconductor as an embedded software developer.
 - 🙂 I'm a Mechatronics Engineering student interested in web dev, robotics and microcontrollers.
 - 🏓 I enjoy working out, playing volleyball and watching movies.
 
