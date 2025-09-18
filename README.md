@@ -5,8 +5,6 @@
 
 Feel free to reach out to me on my [linkedin!](https://www.linkedin.com/in/douglas-huang-b8b521209/)
 
-### Experiences
-- 🔭 Previously at Brock Solutions for web dev with React and C#.
 
 <!--
 **douglashuangg/douglashuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
