@@ -1,9 +1,9 @@
-### Hi there 👋
+### hi there 👋
 - 🤖 previously at Avidrone, Siemens, ON Semiconductor as an embedded software developer.
 - 🙂 i'm a Mechatronics Engineering student interested in robotics, drones, reinforcement learning, and neuroscience
 - 🏓 i enjoy running, playing volleyball and reading (currently reading business adventures by john brooks)
 
-Feel free to reach out to me on my [linkedin!](https://www.linkedin.com/in/douglas-huang-b8b521209/)
+feel free to reach out to me on my [linkedin!](https://www.linkedin.com/in/douglas-huang-b8b521209/)
 
 
 <!--
