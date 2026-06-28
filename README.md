@@ -1,4 +1,5 @@
 ### hi there 👋
+- currently writing embedded firmware at Aurora
 - 🤖 previously at Avidrone, Siemens, ON Semiconductor as an embedded software developer.
 - 🙂 i'm a mechatronics engineering student interested in robotics, aerospace, reinforcement learning, and neuroscience
 - 🏓 i enjoy running, playing volleyball and reading (currently reading business adventures by john brooks)
